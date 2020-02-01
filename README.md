@@ -4,7 +4,7 @@
 
 ---
 
-### [Whitepaper](https://nescience.io/wp-content/uploads/2019/11/Nescience_Rebalance_Whitepaper.pdf)
+### [Whitepaper](https://nescience.io/wp-content/uploads/2020/02/Nescience_Rebalance_Whitepaper.pdf)
 
 ---
 

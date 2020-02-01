@@ -1,0 +1,1 @@
+{"trigger": "THRESHOLD", "period": "", "stablecoin": "USD", "apiKey": "", "apiSecret": "", "apiPass": "", "threshold": 15, "symbols": {"symbol_asset1": "BTC/USD", "symbol_asset2": "ETH/USD", "symbol_asset3": "XRP/USD"}}

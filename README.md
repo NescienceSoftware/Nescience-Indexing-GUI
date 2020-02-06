@@ -44,7 +44,7 @@ Installation in the form of an executable is relatively straightforward. Downloa
 
 #### API Configuration
 
-To properly set up the AI the first step is to create an API key and enable proper key authorizations. 
+To properly set up the tool the first step is to create an API key and enable proper key authorizations. 
 
 This process is different on each exchange, with each exchange having unique restrictions, for exchange-specific instructions pick an exchange from the list below:
 

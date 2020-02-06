@@ -92,9 +92,9 @@ This process is different on each exchange, with each exchange having unique res
 ---
 ## Further Operation
 
-Once set up, the AI/tool will operate until stopped. This can be done by either stopping the application with a keyboard command (Ctrl-C) or by exiting the application. (Command provides the safest shutdown)
+The application can be stopped with by either a keyboard command (Ctrl-C) or by exiting the application. (Command provides the safest shutdown)
 
-The AI/tool can be run in multiple instances under the same executable, provided there is only one instance per exchange.
+The tool can be run in multiple instances under the same executable, provided there is only one instance per exchange.
 
 Should there be a need for multiple instances on the same exchange, there need to be unique installations of the AI/tool.
 

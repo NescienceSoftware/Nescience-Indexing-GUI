@@ -1,1 +1,1 @@
-{"trigger": "PERIODIC", "period": "Daily", "stablecoin": "USD", "apiKey": "", "apiSecret": "", "apiPass": "", "threshold": "", "symbols": {"symbol_asset1": ""}}
+{"configcheck": ""}

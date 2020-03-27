@@ -423,32 +423,9 @@ Further, the best way to validate a new release is to build/compile the CLI appl
     
     
     
-  4. For each exchange you would like to use, in your "Scripts" folder generate an additional folder with the name of the exchange.
+  4. For each exchange you would like to use, in your "Scripts" folder copy and paste the given exchange folder from the Nescience Folder. 
      (Coinbase= "GDAX", Binance = "Binance", Kucoin= "Kucoin", Kraken= "Kraken", etc.)
      
-  5. In each folder, create 3 JSON files with the following titles and the following content:
-  
-----------------------  
-  
-1. Title: "Config"
-
-    Content:   
-    ```
-    {"configcheck": ""}
-    ```
-2. Title: "Initial"
-
-    Content:
-    ```
-    {"initialcheck": ""}
-    ```
-    
-3. Title: "Performance"
-    
-    Content:
-    ```
-    {"initialcheck2": ""}
-    ```
 
 ----------------------  
 

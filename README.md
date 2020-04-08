@@ -1,6 +1,6 @@
 ![Project Image](https://nescience.io/wp-content/uploads/2020/01/Official.png)
 
-> Software Solutions for Alpha Seeking Portfolio Management
+> Software Solutions for Alpha Seeking Portfolio Management 
 
 ---
 
@@ -23,7 +23,7 @@
 
 With our open-source portfolio management tool, an investor with no previous experience can apply a variety of automated portfolio rebalancing strategies to their portfolio. Further, due to our entirely client side application, we are able to ensure transaction security and offer the most secure portfolio management tool available at no upfront cost to our users. 
 
-A demo of our tool can be found operating 24/7 on our twitch channel: [NescienceSoftware](https://www.twitch.tv/nesciencesoftware)
+A demo of our tool can be found 24/7 on our twitch channel: [NescienceSoftware](https://www.twitch.tv/nesciencesoftware)
 
 #### Media
 

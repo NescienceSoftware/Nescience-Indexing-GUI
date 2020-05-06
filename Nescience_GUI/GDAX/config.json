@@ -1,0 +1,1 @@
+{"trigger": "PERIODIC", "period": "Daily", "stablecoin": "FDSF", "apiKey": "FDSF", "apiSecret": "FDSF", "apiPass": "DSFSD", "threshold": "", "symbols": {"symbol_asset1": "MU-FDSF", "symbol_asset2": "MO-FDSF", "symbol_asset3": "AMD-FDSF", "symbol_asset4": "INTC-FDSF", "symbol_asset5": "THAT-FDSF"}}

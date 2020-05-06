@@ -1,0 +1,1 @@
+{"trigger": "PERIODIC", "period": "Hourly", "stablecoin": " ", "apiKey": "", "apiSecret": "", "apiPass": "", "threshold": "", "symbols": {}, "site": "https://paper-api.alpaca.markets"}

@@ -1,0 +1,1 @@
+{"trigger": "PERIODIC", "period": "Daily", "stablecoin": "FSD", "apiKey": "fdsf", "apiSecret": "fdsfs", "apiPass": "", "threshold": "", "symbols": {"symbol_asset1": "FSDF/FSD"}}

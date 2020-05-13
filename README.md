@@ -413,6 +413,10 @@ Remember to save your API Key and API Secret somewhere safe!
 
 [Back To The Top](#table-of-contents)
 
+---
+
+#### Robinhood
+
 ----------------------------
 ## Build
 

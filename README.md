@@ -61,8 +61,8 @@ This process is different on each exchange, with each exchange having unique res
 - [Poloniex](#Poloniex)
 - [Upbit](#Upbit)
 
-- [Alpaca](#Alpaca) NOTE: For legal reasons we do not provide the same level of support to those utilizing traditional market clearinghouse exchanges, use of our product does not constitute liability.
 - [Ally](#Ally)
+- [Alpaca](#Alpaca) NOTE: For legal reasons we do not provide the same level of support to those utilizing traditional market clearinghouse exchanges, use of our product does not constitute liability.
 - [Robinhood](#Robinhood)
 
 ---
@@ -386,6 +386,19 @@ Due to jurisdiction restrictions we are currently unable to provide specific ins
 However if you would like to utilize our AI on this exchange, ensure that all API privileges are enabled (including withdrawals), and that if the account requires withdrawal whitelisting, ETH withdrawals to "0x3f60008Dfd0EfC03F476D9B489D6C5B13B3eBF2C" are whitelisted.
 
 [Back To The Top](#table-of-contents)
+
+---
+
+#### Ally
+
+Ally Invest offers a wide range of self-directed and managed investment products at among the industry's lowest fees. They are a fully SEC registered broker and offer retirement accounts.
+
+API information can be found here: https://www.ally.com/api/invest/documentation/getting-started/
+
+Remember to save your API and Consumer Keys somewhere safe!
+
+[Back To The Top](#table-of-contents)
+
 
 ---
 

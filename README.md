@@ -400,6 +400,8 @@ Remember to save your API Key and API Secret somewhere safe!
 
 #### Robinhood
 
+Unlike other exchanges, robinhood uses a username/password rather than API keys/secrets.
+
 ----------------------------
 ## Build
 

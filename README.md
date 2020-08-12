@@ -106,7 +106,7 @@ Should there be a need for multiple instances on the same exchange, there need t
 
 _When adding money to a portfolio that has already been configured, ensure that you reset the performance data using the "Reset Data" button._
 
-**If you do not, the built in profit tracking will not be able to detect the new deposit, resulting in unnecessary donations. Resetting ensures that a new baseline is established.**
+**If you do not, the built in profit tracking will not be able to detect the new deposit, resulting poor graphical representation. Resetting ensures that a new baseline is established.**
 
 Any issues or inquiries can be directed to support@nescience.io
 

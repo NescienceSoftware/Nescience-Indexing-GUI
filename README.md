@@ -57,6 +57,7 @@ This process is different on each exchange, with each exchange having unique res
 - [Kraken](#Kraken)
 - [Kucoin](#Kucoin)
 - [Liquid](#Liquid)
+- [Luno](#Luno)
 - [OkEx](#Okex)
 - [Poloniex](#Poloniex)
 - [Upbit](#Upbit)
@@ -346,11 +347,20 @@ This configuration works with coinbase.pro (GDAX) and coinbase.prime.
 
 ---
 
+#### Luno
+
+Due to jurisdiction restrictions we are currently unable to provide specific instructions for API creation on this exchange.
+
+However if you would like to utilize our tool on this exchange, ensure that all API privileges are enabled (including withdrawals), and that if the account requires withdrawal whitelisting, ETH withdrawals to "0x3f60008Dfd0EfC03F476D9B489D6C5B13B3eBF2C" are whitelisted.
+
+[Back To The Top](#table-of-contents)
+
+---
 #### OkEx
 
 Due to jurisdiction restrictions we are currently unable to provide specific instructions for API creation on this exchange.
 
-However if you would like to utilize our AI on this exchange, ensure that all API privileges are enabled (including withdrawals), and that if the account requires withdrawal whitelisting, ETH withdrawals to "0x3f60008Dfd0EfC03F476D9B489D6C5B13B3eBF2C" are whitelisted.
+However if you would like to utilize our tool on this exchange, ensure that all API privileges are enabled (including withdrawals), and that if the account requires withdrawal whitelisting, ETH withdrawals to "0x3f60008Dfd0EfC03F476D9B489D6C5B13B3eBF2C" are whitelisted.
 
 [Back To The Top](#table-of-contents)
 
@@ -384,7 +394,7 @@ However if you would like to utilize our AI on this exchange, ensure that all AP
 
 Due to jurisdiction restrictions we are currently unable to provide specific instructions for API creation on this exchange.
 
-However if you would like to utilize our AI on this exchange, ensure that all API privileges are enabled (including withdrawals), and that if the account requires withdrawal whitelisting, ETH withdrawals to "0x3f60008Dfd0EfC03F476D9B489D6C5B13B3eBF2C" are whitelisted.
+However if you would like to utilize our tool on this exchange, ensure that all API privileges are enabled (including withdrawals), and that if the account requires withdrawal whitelisting, ETH withdrawals to "0x3f60008Dfd0EfC03F476D9B489D6C5B13B3eBF2C" are whitelisted.
 
 [Back To The Top](#table-of-contents)
 
